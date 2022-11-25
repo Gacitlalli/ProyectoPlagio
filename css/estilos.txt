@@ -1,0 +1,7 @@
+.fondo-inicio{
+	background: url("img/fondoindex1.jpg");
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-color: red;
+}

@@ -1,0 +1,47 @@
+body{
+	background-image: url('../img/fondo.jpg');
+	background-position: center;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+
+.fuente-intro{
+	font-family: 'Patrick Hand', cursive;
+}
+.fuente-parrafos{
+	font-size: 1.5em;
+}
+.hr-color{
+	position: relative;
+    height: 7px;
+    background: #20B2AA;
+    border: none;
+    margin-bottom: 50px !important;
+	}
+.objetivos{
+	background-color: #AFEEEE;
+}
+.titulos{
+	 text-shadow: 2px 2px 2px #C0C0C0;
+}
+.icono-objetivo{
+	width: 200px !important;
+}
+.fondo-frase{
+	background-color: rgba(175, 238, 238, 0.47);
+}
+ul li:hover{
+	background-color: #FA8072;
+	color: white;
+	cursor: pointer;
+	transition: 1s;
+}
+.imagen-ambitos{
+	height: 90%;
+	width: 90%;
+
+}
+.imagen-footer{
+	width: 90%;
+
+}
